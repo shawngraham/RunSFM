@@ -1,0 +1,5 @@
+cmake
+cblas
+lapack
+atlas
+gsl
